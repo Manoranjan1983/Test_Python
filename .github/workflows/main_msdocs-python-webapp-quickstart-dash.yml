@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'msdocs-python-webapp-quickstart-dash'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5AD785D6FCFA42C68B29BCA2E6F8E9F2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C72A441A3D954366A20ACEB46E0BEAFF }}
